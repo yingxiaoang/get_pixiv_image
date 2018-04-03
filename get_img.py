@@ -7,7 +7,7 @@ import time
 
 
 headers = {"Referer": "https://www.pixiv.net",
-           'Cookie': "Cookie"
+           'Cookie': "Cookie" # 复制Cookie进来
            }
 main_url = 'https://www.pixiv.net'
 init = "https://www.pixiv.net/member_illust.php?id="
